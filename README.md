@@ -8,14 +8,14 @@ Linux:
 
 ```bash
 git clone https://github.com/miguelzacca/russian-roulette.git
-~/rr/config
+~/russian-roulette/config
 ```
 
 Windows:
 
 ```cmd
 git clone https://github.com/miguelzacca/russian-roulette.git
-rr/config.exe
+russian-roulette/config.exe
 ```
 
 ## Use
