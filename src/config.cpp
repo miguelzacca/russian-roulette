@@ -3,9 +3,9 @@
 int main(int argc, char *argv[])
 {
 #ifdef _WIN32
-  system("echo rr/rr.exe > %HOMEPATH%/rr.bat");
+  system("echo russian-roulette/rr.exe > %HOMEPATH%/rr.bat");
 #else
-  system("echo alias rr='~/rr/rr' >>~/.bashrc");
+  system("echo alias rr='~/russian-roulette/rr' >>~/.bashrc");
 #endif
 
   return 0;
